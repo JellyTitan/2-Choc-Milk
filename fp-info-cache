@@ -1,4 +1,4 @@
-20674316038509468
+20679340826509345
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86905,6 +86905,20 @@ varistor SIOV
 2
 2
 ergodonk_kicad_library
+ArduinoProMicro-ZigZag-USB-C
+
+
+0
+24
+24
+ergodonk_kicad_library
+ArduinoProMicro-ZigZag-USB-C_hidden_text
+
+
+0
+24
+24
+ergodonk_kicad_library
 CherryMX_Hotswap
 
 
@@ -87058,6 +87072,13 @@ rotary encoder
 0
 9
 5
+ergodonk_kicad_library
+SVG_import_test
+
+
+0
+0
+0
 ergodonk_kicad_library
 sofle_choc_miniE
 
