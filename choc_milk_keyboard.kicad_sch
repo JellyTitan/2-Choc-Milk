@@ -536,6 +536,11 @@
     (uuid fb309875-f4c1-4279-8da8-6df702373344)
   )
 
+  (text "ToDO\nRound corners\nLogo - gold outline and stroke\nbare board for milk,\nscreen for milk negative space and cap\nDoes a logo fit on the other side"
+    (at 87.63 152.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9e24bdc5-30b2-4bd7-9870-249fc74e4f77)
+  )
   (text "https://www.svgrepo.com/svg/48896/milk-bottle" (at 144.78 134.62 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a5c3da06-932b-422d-8902-ff0c24108937)
